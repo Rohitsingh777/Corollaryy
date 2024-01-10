@@ -1,0 +1,37 @@
+
+
+body {
+  margin: 0;
+}
+.oneprod{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: burlywood;
+  width: 20vw;
+  height: 50vh;
+  justify-content: center;
+
+}
+.oneprod:hover{
+color: rgb(205, 190, 190);
+opacity: 0.9; 
+}
+
+
+.products{
+  background-color: rgb(207, 211, 165);
+}
+
+.imgdiv{
+  background : white;
+  overflow: hidden;
+  width: 80%;
+  height: 65%;
+}
+
+.imgdiv img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
