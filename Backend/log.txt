@@ -1,0 +1,18 @@
+mongodb+srv://09420613901r:YamApwQ3R7UqPTIb@Corollary.otpxpwl.mongodb.net/?retryWrites=true&w=majority
+litening on 3000
+inside authjwt
+{
+  authorization: 'BEARER eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIiLCJyb2xlIjoidXNlciIsImlhdCI6MTcwNTQ2MTQwOSwiZXhwIjoxNzA1NDY1MDA5fQ.HBhhVv8WL5DULLk2_1Qg8j8TslSurl8nCEGqSA_jhAk',
+  'user-agent': 'PostmanRuntime/7.36.0',
+  accept: '*/*',
+  'cache-control': 'no-cache',
+  'postman-token': 'a566c2a4-8a98-4cfd-bcdf-6c390c0a2856',
+  host: 'localhost:3000',
+  'accept-encoding': 'gzip, deflate, br',
+  connection: 'keep-alive'
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIiLCJyb2xlIjoidXNlciIsImlhdCI6MTcwNTQ2MTQwOSwiZXhwIjoxNzA1NDY1MDA5fQ.HBhhVv8WL5DULLk2_1Qg8j8TslSurl8nCEGqSA_jhAk
+
+
+
+
