@@ -1,0 +1,9 @@
+input{
+    width: 20vw;
+    height: 3vh;
+}
+label{
+    font-size: large;
+    font-family: math;
+    font-weight: bold;
+}

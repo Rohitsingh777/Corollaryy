@@ -1,0 +1,34 @@
+{
+    "_id": "65c7a8201e64744f82d584b7",
+    "name": "newdb",
+    "description": "jfjewoiff jweiofjwei qf e we",
+    "price": 788,
+    "discount": 35,
+    "color": "red",
+    "images": [
+        "https://lkcreactive.com/cdn/shop/products/LK-3050_Ash_Heather_1080x.png?v=1544372366"
+    ],
+    "code": "red",
+    "sizes": [
+        {
+            "name": "S",
+            "stock": 89,
+            "_id": "65c7a8201e64744f82d584b8"
+        },
+        {
+            "name": "M",
+            "stock": 80,
+            "_id": "65c7a8201e64744f82d584b9"
+        },
+        {
+            "name": "L",
+            "stock": 70,
+            "_id": "65c7a8201e64744f82d584ba"
+        }
+    ],
+    "variants": [
+        "6585aee9bb882ad349b0f400"
+    ],
+    "sellingPrice": 512.2,
+    "__v": 0
+}
